@@ -17,7 +17,6 @@ sudo apt install tor
  
 ## 3. edit /etc/tor/torrc file so it shows:
 
-sudo vim /etc/tor/torrc
 
 HiddenServiceDir /var/lib/tor/monero-rpc/
 
