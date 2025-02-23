@@ -1,6 +1,7 @@
 # bitmonero.conf Guide
 
 see video for walkthrough: 
+https://odysee.com/@anti_moonboy:7/AOTPO28:f
 
 
 ## 1. Install GUI or CLI.
